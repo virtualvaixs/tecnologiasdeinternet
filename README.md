@@ -1,2 +1,2 @@
 # tecnologiasdeinternet
-Materia Tecnologias de Iternet
+Materia Tecnologias de Internet
